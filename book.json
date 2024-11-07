@@ -1,0 +1,114 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "published_date": "1925-04-10",
+      "isbn": "9780743273565",
+      "pages": 180,
+      "language": "English",
+      "cover_image": "https://example.com/images/great-gatsby.jpg",
+      "description": "A novel set in the 1920s about the American dream, wealth, and love."
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "published_date": "1949-06-08",
+      "isbn": "9780451524935",
+      "pages": 328,
+      "language": "English",
+      "cover_image": "https://example.com/images/1984.jpg",
+      "description": "A dystopian novel that explores totalitarianism and surveillance."
+    },
+    {
+      "id": 3,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "published_date": "1960-07-11",
+      "isbn": "9780061120084",
+      "pages": 324,
+      "language": "English",
+      "cover_image": "https://example.com/images/to-kill-a-mockingbird.jpg",
+      "description": "A Pulitzer Prize-winning novel about racial injustice and childhood innocence."
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "published_date": "1813-01-28",
+      "isbn": "9780141040349",
+      "pages": 279,
+      "language": "English",
+      "cover_image": "https://example.com/images/pride-and-prejudice.jpg",
+      "description": "A classic novel that explores themes of love, marriage, and social class."
+    },
+    {
+      "id": 5,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "published_date": "1851-10-18",
+      "isbn": "9781503280786",
+      "pages": 635,
+      "language": "English",
+      "cover_image": "https://example.com/images/moby-dick.jpg",
+      "description": "The epic tale of Captain Ahab's obsessive quest to hunt the elusive white whale."
+    },
+    {
+      "id": 6,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "published_date": "1951-07-16",
+      "isbn": "9780316769488",
+      "pages": 277,
+      "language": "English",
+      "cover_image": "https://example.com/images/catcher-in-the-rye.jpg",
+      "description": "A story about teenage alienation and the search for identity."
+    },
+    {
+      "id": 7,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "published_date": "1937-09-21",
+      "isbn": "9780345339683",
+      "pages": 310,
+      "language": "English",
+      "cover_image": "https://example.com/images/the-hobbit.jpg",
+      "description": "A fantasy novel about the adventures of Bilbo Baggins in Middle-earth."
+    },
+    {
+      "id": 8,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "published_date": "1988-11-01",
+      "isbn": "9780061122415",
+      "pages": 208,
+      "language": "Portuguese",
+      "cover_image": "https://example.com/images/the-alchemist.jpg",
+      "description": "A philosophical novel about a young shepherd's journey to find his personal legend."
+    },
+    {
+      "id": 9,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "published_date": "1932-08-01",
+      "isbn": "9780060850524",
+      "pages": 311,
+      "language": "English",
+      "cover_image": "https://example.com/images/brave-new-world.jpg",
+      "description": "A dystopian novel that explores a future society of advanced technology and conformity."
+    },
+    {
+      "id": 10,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "published_date": "1866-01-01",
+      "isbn": "9780486415871",
+      "pages": 430,
+      "language": "Russian",
+      "cover_image": "https://example.com/images/crime-and-punishment.jpg",
+      "description": "A psychological drama about a young man who commits a crime and wrestles with guilt."
+    }
+  ]
+}
